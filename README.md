@@ -7,6 +7,7 @@ connections.
 ```
 pip install scapy
 python3 app.py
+Enter the fake src IP: 
 Enter the IP address of the server: 
 Enter the port number of the server:
 ```
